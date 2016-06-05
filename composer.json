@@ -1,0 +1,12 @@
+{
+    "name": "soooldier/composer-script",
+    "description": "Solarium client for yii2",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "唐毅",
+            "email": "soooldier@live.com"
+        }
+    ]
+}
