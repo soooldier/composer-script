@@ -8,5 +8,10 @@
             "name": "唐毅",
             "email": "soooldier@live.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "heyun\\abc\\": "src/"
+        }
+    }
 }
